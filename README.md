@@ -3,6 +3,7 @@ Massive improvements for emulators:
 - PSP;
 - SFC;
 - DC;
+- PICO8;
 - OPENBOR;
 
 Others improvements:
